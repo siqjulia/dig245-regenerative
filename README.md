@@ -161,6 +161,17 @@ See Moodle.
 <details>
 <summary>Past examples</summary>
   
+- 2023
+    [David](https://davidmhilton.github.io/dig245-regenerative/)
+    [Alp](https://alpnix.github.io/dig245-regenerative/)
+    [Riana](https://rianadoctor.github.io/dig245-regenerative/)
+    [Jeremy](https://jeremykemp1.github.io/dig245-regenerative/)
+    [Tyler](https://tyleryandt18.github.io/dig245-regenerative/)
+    [Erika](https://erikan14.github.io/dig245-regenerative/)†
+    [Richard](https://aequor29.github.io/dig245-regenerative/)
+    [Patrick](https://patrick-leary.github.io/dig245-regenerative/)
+    [Nam](https://namdao2508.github.io/dig245-regenerative/)
+    [Meredith](https://merhaines.github.io/dig245-regenerative/)
 - 2021
     [Annelise](https://anclaire.github.io/dig245-regenerative)
     [Drew](https://drdibble.github.io/dig245-regenerative)
@@ -177,5 +188,6 @@ See Moodle.
     Garcia [Washing Machine]
     Bartroli [Band Name Generator]
 
+†not currently live
 
 </details>
