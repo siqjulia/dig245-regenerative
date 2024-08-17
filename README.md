@@ -106,6 +106,8 @@ See Moodle.
 
 ### Art | Design | Culture
 
+See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#randomness](https://omundy.github.io/critical-web-design-index#randomness) or [#remix](https://omundy.github.io/critical-web-design-index#remix), including...
+
 - Chris Baker, Mike Lacher, and Richard Baker [Troll the NSA](http://ilovechrisbaker.com/troll-the-nsa/) (2013)
 - Rafaël Rozendaal [Abstract Browsing](http://www.abstractbrowsing.net) (2014)
 - Colleen Josephson and Kyle Miller [endless.horse](http://endless.horse) (2015)
@@ -115,12 +117,9 @@ See Moodle.
 - Kevan Davis [eBay Feedback Generator](http://thesurrealist.co.uk/feedback) (2005)
 - Ben Grosser [Scaremail](https://bengrosser.com/projects/scaremail/)
 - 0x72 [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) (example of [sprite](https://raw.githubusercontent.com/omundy/sample-unity-animation/main/Assets/Sprite_Anim_Fred/Textures/fred-cinemachine-2.gif))
-- [eBay Feedback Generator](https://thesurrealist.co.uk/feedback) (2005)
-- [Hacker Simulator](https://hacker-simulator.com/)
-- [itadakimasu.app/](https://itadakimasu.app/)
-- [Tarot-o-bot](https://tarotobot-reboot.illo.tv/) (2019)
-- Hartmut Bohnacker [Site Shaker](https://hartmut-bohnacker.de/projects/site-shaker) (2018)
-- Other Critical Web Design / Radical Software [examples tagged with #generative or #remix](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0)
+
+
+
 
 
 
@@ -162,31 +161,35 @@ See Moodle.
 <summary>Past examples</summary>
   
 - 2023
-    [David](https://davidmhilton.github.io/dig245-regenerative/)
-    [Alp](https://alpnix.github.io/dig245-regenerative/)
-    [Riana](https://rianadoctor.github.io/dig245-regenerative/)
-    [Jeremy](https://jeremykemp1.github.io/dig245-regenerative/)
-    [Tyler](https://tyleryandt18.github.io/dig245-regenerative/)
-    [Erika](https://erikan14.github.io/dig245-regenerative/)†
-    [Richard](https://aequor29.github.io/dig245-regenerative/)
-    [Patrick](https://patrick-leary.github.io/dig245-regenerative/)
-    [Nam](https://namdao2508.github.io/dig245-regenerative/)
-    [Meredith](https://merhaines.github.io/dig245-regenerative/)
+    - [David](https://davidmhilton.github.io/dig245-regenerative/)
+    - [Alp](https://alpnix.github.io/dig245-regenerative/)
+    - [Riana](https://rianadoctor.github.io/dig245-regenerative/)
+    - [Jeremy](https://jeremykemp1.github.io/dig245-regenerative/)
+    - [Tyler](https://tyleryandt18.github.io/dig245-regenerative/)
+    - [Erika](https://erikan14.github.io/dig245-regenerative/)†
+    - [Richard](https://aequor29.github.io/dig245-regenerative/)
+    - [Patrick](https://patrick-leary.github.io/dig245-regenerative/)
+    - [Nam](https://namdao2508.github.io/dig245-regenerative/)
+    - [Meredith](https://merhaines.github.io/dig245-regenerative/)
 - 2021
-    [Annelise](https://anclaire.github.io/dig245-regenerative)
-    [Drew](https://drdibble.github.io/dig245-regenerative)
-    [Erina](https://erlee1.github.io/dig245-regenerative)
-    [Emma](https://emmelton.github.io/dig245-regenerative)
-    [Meng](https://mengfw-02.github.io/dig245-regenerative/)
-    [Maurillio](https://maurilio-saddoud.github.io/dig245-regenerative)
-    [Henry](https://hehowell.github.io/Random-Dessert-Selector)
-    [Caroline](https://casigl.github.io/dig245-regenerative)
-    [Anh](https://anhhoang1402.github.io/dig245-regenerative)
+    - Annelise [Road Trip](https://anclaire.github.io/dig245-regenerative)
+    - Drew [Probability Football](https://drdibble.github.io/dig245-regenerative)
+    - Erina [Ominous Fortune Cookies](https://erlee1.github.io/dig245-regenerative)
+    - Emma [Card Game Generator](https://emmelton.github.io/dig245-regenerative)
+    - Meng [Clothes Generator](https://mengfw-02.github.io/dig245-regenerative/)
+    - Maurillio [Math Quiz](https://maurilio-saddoud.github.io/dig245-regenerative)
+    - Henry [Random Dessert Selector](https://hehowell.github.io/Random-Dessert-Selector)
+    - Caroline [SPOOK-IFY](https://casigl.github.io/dig245-regenerative)
+    - Anh [Ghibli Movie Generator](https://anhhoang1402.github.io/dig245-regenerative)
 - Past
-    Henken [String Art Generator]
-    Hollen [Game Boy]
-    Garcia [Washing Machine]
-    Bartroli [Band Name Generator]
+    - Amy [Game Boy]
+    - Jose [Washing Machine]
+- 2009
+    - Jose [Band Name Generator](https://www.youtube.com/watch?v=mUeBQCInZ2o&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=16)
+- 2008
+    - Rachel Rossin [Random Paint Splatter]
+- 2007
+    - Alexander [String Art Generator]
 
 †not currently live
 
