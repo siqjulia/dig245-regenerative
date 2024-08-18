@@ -55,26 +55,57 @@ See Moodle.
 
 
 
-## Context
+## Concept
 
-- 📚 "Generative Design" (chapter 8) in Critical Web Design
-    - Chapter example(s): TBD
+- 📚 "Off the Grid" (chapter 6) and "Generative Design" (chapter 8) in *Critical Web Design*
+- [Chapter examples](https://omundy.github.io/critical-web-design-book/#chapter-8-generative-design) like: 
+[Haiku (Birds)](https://omundy.github.io/critical-web-design-book/06-off-the-grid/examples/birds.html), 
+[Generative (Jean) Arp](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/generative-arp), 
+[Band Name Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/band-name-generator) 
 
 
-## Setup
 
-[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
+
+
+#### Inspiration
+
+See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#randomness](https://omundy.github.io/critical-web-design-index#randomness) or [#remix](https://omundy.github.io/critical-web-design-index#remix), including...
+
+- Chris Baker, Mike Lacher, and Richard Baker [Troll the NSA](http://ilovechrisbaker.com/troll-the-nsa/) (2013)
+- Rafaël Rozendaal [Abstract Browsing](http://www.abstractbrowsing.net) (2014)
+- Colleen Josephson and Kyle Miller [endless.horse](http://endless.horse) (2015)
+- Mark Sample [Two Moji](http://fugitivetexts.net/twomoji) (2018)
+- Tero Parviainen [How Generative Music Works](https://teropa.info/loop/)
+- Kevan Davis [eBay Feedback Generator](http://thesurrealist.co.uk/feedback) (2005)
+- 0x72 [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) (example of [sprite](https://raw.githubusercontent.com/omundy/sample-unity-animation/main/Assets/Sprite_Anim_Fred/Textures/fred-cinemachine-2.gif))
+
+
+#### Articles
+
+- 📚 Dan Howarth "[Generative Design Software Will Give Designers ‘Superpowers’](https://www.dezeen.com/2017/02/06/generative-design-software-will-give-designers-superpowers-autodesk-university/)" (2017), [video](https://www.youtube.com/watch?v=h7gq7OrbgxY) (2:18) 
+- Eduardo Souza "[How Will Generative Design Impact Architecture?](https://www.archdaily.com/937772/how-will-generative-design-impact-architecture)" (2020)
+- Others from this [Random Article Generator](https://codepen.io/owenmundy/pen/PomvjqW?editors=1010)
+
+
+
+#### Data sources
+
+- [faker.js](https://www.npmjs.com/package/faker) and [hosted version](https://fakercloud.com/api), and [similar projects](https://awesomeopensource.com/projects/faker)
+- [public-apis](https://github.com/public-apis/public-apis), [apilist.fun](https://apilist.fun/), and [No Auth APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/) - free APIs for software and web development. For example: [Cat Facts](https://alexwohlbruck.github.io/cat-facts/), [Free IP Geolocation API](https://freegeoip.app/json/), [Random User](https://randomuser.me/api/)
+
+
 
 
 ## Design
 
-1. Develop a concept for your project. Consider the above prompt, as well as [Examples of randomness](#inspiration) below.
+1. Develop a concept for your project. Consider the above prompt and inspiration.
 1. Use [Figma](https://figma.com) to create a wireframe and design iterations for your project. Start with desktop design, then create the mobile layout once you have made a few iterations. 
 1. Use Figma to diagram any data transformations or flowcharts as needed. Show the different stages of the user experience or how your app changes depending on the content.
 
 
 ## Code
 
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Begin the code portion by writing out the pseudocode for your project. [See this activity for practice](https://github.com/omundy/learn-computing/blob/main/topics/computational-thinking.md#pseudocode). Save the pseudocode in a comment in your Javascript.
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use Javascript variables, conditional logic, loops, etc. to somehow change the page every time it loads.
@@ -98,50 +129,6 @@ See Moodle.
 
 
 
-
-## Examples of Randomness
-
-
-
-
-### Art | Design | Culture
-
-See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#randomness](https://omundy.github.io/critical-web-design-index#randomness) or [#remix](https://omundy.github.io/critical-web-design-index#remix), including...
-
-- Chris Baker, Mike Lacher, and Richard Baker [Troll the NSA](http://ilovechrisbaker.com/troll-the-nsa/) (2013)
-- Rafaël Rozendaal [Abstract Browsing](http://www.abstractbrowsing.net) (2014)
-- Colleen Josephson and Kyle Miller [endless.horse](http://endless.horse) (2015)
-- Mark Sample [Two Moji](http://fugitivetexts.net/twomoji) (2018)
-- Tero Parviainen [How Generative Music Works](https://teropa.info/loop/)
-- Dan Kurtz [Binky](https://www.binky.rocks/) (2017)
-- Kevan Davis [eBay Feedback Generator](http://thesurrealist.co.uk/feedback) (2005)
-- Ben Grosser [Scaremail](https://bengrosser.com/projects/scaremail/)
-- 0x72 [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) (example of [sprite](https://raw.githubusercontent.com/omundy/sample-unity-animation/main/Assets/Sprite_Anim_Fred/Textures/fred-cinemachine-2.gif))
-
-
-
-
-
-### Articles
-
-- Dan Howarth "[Generative Design Software Will Give Designers ‘Superpowers’](https://www.dezeen.com/2017/02/06/generative-design-software-will-give-designers-superpowers-autodesk-university/)" (2017), [video](https://www.youtube.com/watch?v=h7gq7OrbgxY) (2:18) 
-- Eduardo Souza "[How Will Generative Design Impact Architecture?](https://www.archdaily.com/937772/how-will-generative-design-impact-architecture)" (2020)
-- and more from this [Random Article Generator](https://codepen.io/owenmundy/pen/PomvjqW?editors=1010)
-
-
-
-### Sources for content
-
-- [faker.js](https://www.npmjs.com/package/faker) and [hosted version](https://fakercloud.com/api), and [similar projects](https://awesomeopensource.com/projects/faker)
-- [public-apis](https://github.com/public-apis/public-apis), [apilist.fun](https://apilist.fun/), and [No Auth APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/) - free APIs for software and web development. For example: [Cat Facts](https://alexwohlbruck.github.io/cat-facts/), [Free IP Geolocation API](https://freegeoip.app/json/), [Random User](https://randomuser.me/api/)
-
-
-
-### Class Demos
-
-- codepen.io [Random Article Generator](https://codepen.io/owenmundy/pen/PomvjqW)
-- https://github.com/omundy/learn-javascript/search?q=.random
-- Also see, Data Culture: Randomness Activity
 
 
 
