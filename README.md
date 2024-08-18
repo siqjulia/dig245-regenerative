@@ -122,11 +122,10 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 
 
-
 ### Articles
 
-- "[Generative Design Software Will Give Designers ‘Superpowers’](https://www.dezeen.com/2017/02/06/generative-design-software-will-give-designers-superpowers-autodesk-university/)", [video](https://www.youtube.com/watch?v=h7gq7OrbgxY) (2:18),
-- "[How Will Generative Design Impact Architecture?](https://www.archdaily.com/937772/how-will-generative-design-impact-architecture)"
+- Dan Howarth "[Generative Design Software Will Give Designers ‘Superpowers’](https://www.dezeen.com/2017/02/06/generative-design-software-will-give-designers-superpowers-autodesk-university/)" (2017), [video](https://www.youtube.com/watch?v=h7gq7OrbgxY) (2:18) 
+- Eduardo Souza "[How Will Generative Design Impact Architecture?](https://www.archdaily.com/937772/how-will-generative-design-impact-architecture)" (2020)
 - and more from this [Random Article Generator](https://codepen.io/owenmundy/pen/PomvjqW?editors=1010)
 
 
