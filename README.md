@@ -58,16 +58,16 @@ See Moodle.
 ## Concept
 
 - 📚 "Off the Grid" (chapter 6) and "Generative Design" (chapter 8) in *Critical Web Design*
-- [Chapter examples](https://omundy.github.io/critical-web-design-book/#chapter-8-generative-design) like: 
+
+
+
+
+### Inspiration
+
+- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-8-generative-design): 
 [Haiku (Birds)](https://omundy.github.io/critical-web-design-book/06-off-the-grid/examples/birds.html), 
 [Generative (Jean) Arp](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/generative-arp), 
 [Band Name Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/band-name-generator) 
-
-
-
-
-
-#### Inspiration
 
 See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#randomness](https://omundy.github.io/critical-web-design-index#randomness) or [#remix](https://omundy.github.io/critical-web-design-index#remix), including...
 
@@ -80,7 +80,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 - 0x72 [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) (example of [sprite](https://raw.githubusercontent.com/omundy/sample-unity-animation/main/Assets/Sprite_Anim_Fred/Textures/fred-cinemachine-2.gif))
 
 
-#### Articles
+### Articles
 
 - 📚 Dan Howarth "[Generative Design Software Will Give Designers ‘Superpowers’](https://www.dezeen.com/2017/02/06/generative-design-software-will-give-designers-superpowers-autodesk-university/)" (2017), [video](https://www.youtube.com/watch?v=h7gq7OrbgxY) (2:18) 
 - Eduardo Souza "[How Will Generative Design Impact Architecture?](https://www.archdaily.com/937772/how-will-generative-design-impact-architecture)" (2020)
@@ -88,7 +88,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 
 
-#### Data sources
+### Data sources
 
 - [faker.js](https://www.npmjs.com/package/faker) and [hosted version](https://fakercloud.com/api), and [similar projects](https://awesomeopensource.com/projects/faker)
 - [public-apis](https://github.com/public-apis/public-apis), [apilist.fun](https://apilist.fun/), and [No Auth APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/) - free APIs for software and web development. For example: [Cat Facts](https://alexwohlbruck.github.io/cat-facts/), [Free IP Geolocation API](https://freegeoip.app/json/), [Random User](https://randomuser.me/api/)
