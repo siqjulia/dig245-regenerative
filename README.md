@@ -67,7 +67,7 @@ See Moodle.
 - Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-8-generative-design): 
 [Haiku (Birds)](https://omundy.github.io/critical-web-design-book/06-off-the-grid/examples/birds.html), 
 [Generative (Jean) Arp](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/generative-arp), 
-[Band Name Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/band-name-generator) 
+[Band Name Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/band-name-generator), [Music Venue Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/music-venue-generator.html), [String Art Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/string-art-generator/dist/) 
 
 See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#randomness](https://omundy.github.io/critical-web-design-index#randomness) or [#remix](https://omundy.github.io/critical-web-design-index#remix), including...
 
@@ -147,16 +147,16 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 <summary>Past examples</summary>
   
 - 2023
-    - [David](https://davidmhilton.github.io/dig245-regenerative/)
-    - [Alp](https://alpnix.github.io/dig245-regenerative/)
-    - [Riana](https://rianadoctor.github.io/dig245-regenerative/)
-    - [Jeremy](https://jeremykemp1.github.io/dig245-regenerative/)
-    - [Tyler](https://tyleryandt18.github.io/dig245-regenerative/)
-    - [Erika](https://erikan14.github.io/dig245-regenerative/)†
-    - [Richard](https://aequor29.github.io/dig245-regenerative/)
-    - [Patrick](https://patrick-leary.github.io/dig245-regenerative/)
-    - [Nam](https://namdao2508.github.io/dig245-regenerative/)
-    - [Meredith](https://merhaines.github.io/dig245-regenerative/)
+    - David [Click Anywhere](https://davidmhilton.github.io/dig245-regenerative/)
+    - Alp [Network](https://alpnix.github.io/dig245-regenerative/)
+    - Riana [CelebMorph Randomizer](https://rianadoctor.github.io/dig245-regenerative/)
+    - Jeremy [The Future in Colours](https://jeremykemp1.github.io/dig245-regenerative/)
+    - Tyler [G H O S T](https://tyleryandt18.github.io/dig245-regenerative/)
+    - Richard [Music by Mood](https://aequor29.github.io/dig245-regenerative/)
+    - Nam [OptiMedia Networks (OMN)](https://namdao2508.github.io/dig245-regenerative/)
+    - Meredith [Your Future in 10](https://merhaines.github.io/dig245-regenerative/)
+    <!-- - Patrick [Island Adventure](https://patrick-leary.github.io/dig245-regenerative/) -->
+    - Erika [Music Generator](https://erikan14.github.io/dig245-regenerative/)†
 - 2021
     - Annelise [Road Trip](https://anclaire.github.io/dig245-regenerative)
     - Drew [Probability Football](https://drdibble.github.io/dig245-regenerative)
@@ -169,7 +169,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
     - Anh [Ghibli Movie Generator](https://anhhoang1402.github.io/dig245-regenerative)
 - Past
     - Amy [Game Boy]
-    - Jose [Washing Machine]
+    - Eric [Washing Machine]
 - 2009
     - Jose [Band Name Generator](https://www.youtube.com/watch?v=mUeBQCInZ2o&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=16)
 - 2008
