@@ -38,92 +38,118 @@ const songs = [
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "We Are Family",
+        artist: "Sister Sledge",
+        year: "1979",
+        video: "https://www.youtube.com/embed/uyGY2NfYpeE?si=aqONigKtOWqTg8GT",
+        imp:  "While the four members of Sister Sledge are actual sisters, the song took on a deeper meaning with the gay community being one big family. The smash, written and produced by Bernard Edwards and Nile Rodgers of Chic, reached No. 2 on the Hot 100 in June 1979.",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "She Keeps Me Warm",
+        artist: "Mary Lambert",
+        year: "2013",
+        video: "https://www.youtube.com/embed/NhqH-r7Xj0E?si=2QmsJ56mRmZL9S9c",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Closer",
+        artist: "Tegan and Sara",
+        year: "2013",
+        video: "https://www.youtube.com/embed/9e9NSMY8QiQ?si=MA9uukj_E8aP2P_l",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Good Luck, Babe!",
+        artist: "Chapell Roan",
+        year: "2024",
+        video: "https://youtu.be/VZ-oGLluGAc?si=3Jj_iagkUL7cXITm",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Clairo",
+        artist: "Sofia",
+        year: "2019",
+        video: "https://www.youtube.com/embed/L9l8zCOwEII?si=-vYzTurQy0tBWxt1",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Lunch",
+        artist: "Billie Eilish",
+        year: "2024",
+        video: "https://www.youtube.com/embed/MB3VkzPdgLA?si=U8TF31HjR7vhK2MU",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Vogue",
+        artist: "Madonna",
+        year: "1990",
+        video: "https://www.youtube.com/embed/GuJQSAiODqI?si=BAipC3_fC8nSP_3U",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Over the Rainbow",
+        artist: "Judy Garland",
+        year: "1939",
+        video: "https://www.youtube.com/embed/EKiiSRzukAc?si=56tLpUy_imDCZp7p",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Lily Allen",
+        artist: "F**k You",
+        year: "2009",
+        video: "https://www.youtube.com/embed/E5iUvpjii14?si=4dIDcuHFVbLcZmNC",
+        imp: "Originally written about George W. Bush, the song took on a bigger meaning after Prop 8 — an anti-gay marriage state constitutional amendment — was passed in California. The ban was lifted in 2013.",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Follow Your Arrow",
+        artist: "Kacey Musgraves",
+        year: "2013",
+        video: "https://www.youtube.com/embed/ofsvcA-2XmE?si=UDU8LIcZ56q9jSNx",
+        imp: "The way Musgraves nonchalantly suggests to “kiss lots of boys — or kiss lots of girls, if that’s something you’re into,” was seen as an attack on traditional Christian values by some, while others said it was positive a shift for country music. The hit was crowned song of the year at the CMA Awards in November 2014", 
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "This Hell",
+        artist: "Rina Sawayama",
+        year: "2022",
+        video: "https://www.youtube.com/embed/ekauErew4Bs?si=sCsOlrJ1cAW5wdUB",
     },
+
+    {
+        title: "Alien Superstar",
+        artist: "Beyoncé",
+        year: "2022",
+        video: "https://www.youtube.com/embed/e_aT9pAGQo8?si=b4S8bgtuSh2RNI8l",
+    },
+
+    {
+        title: "Padam Padam",
+        artist: "Kylie Minogue",
+        year: "2023",
+        video: "https://www.youtube.com/embed/p6Cnazi_Fi0?si=jlGhJKilISF-NzOD",
+    },
+
+    {
+        title: "Silk Chiffon",
+        artist: "MUNA",
+        year: "2022",
+        video: "https://www.youtube.com/embed/1IvyGfWhoWo?si=wnUMVRZWAuQnDcRX",
+    },
+
+
 
 ]
 
-document.addEventListener("click"); {
-    function randomArrayIndex(songs) {
-        return result[Math.floor(Math.random() * arr.length)];
-        console.log(result);
-
-    }
+function randomArrayIndex(arr) {
+	return arr[Math.floor(Math.random() * arr.length)];
 }
 
-let result =
-
+document.addEventListener("click", loadRandom);
+function loadRandom(){
+	let result = randomArrayIndex(songs);
+	console.log(result);
+	let div = document.querySelector(".result");
+};
 
