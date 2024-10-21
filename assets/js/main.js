@@ -138,6 +138,50 @@ const songs = [
         video: "https://www.youtube.com/embed/1IvyGfWhoWo?si=wnUMVRZWAuQnDcRX",
     },
 
+    {
+        title: "",
+        artist: "",
+        year: "",
+        video: "", 
+    }, 
+
+    {
+        title: "",
+        artist: "",
+        year: "",
+        video: "", 
+    }, 
+
+    {
+        title: "",
+        artist: "",
+        year: "",
+        video: "", 
+    }, 
+
+
+    {
+        title: "",
+        artist: "",
+        year: "",
+        video: "", 
+    }, 
+
+
+    {
+        title: "",
+        artist: "",
+        year: "",
+        video: "", 
+    }, 
+
+
+    {
+        title: "",
+        artist: "",
+        year: "",
+        video: "", 
+    }
 
 
 ]
@@ -151,5 +195,7 @@ function loadRandom(){
 	let result = randomArrayIndex(songs);
 	console.log(result);
 	let div = document.querySelector(".result");
+
+    console.log(result); 
 };
 
