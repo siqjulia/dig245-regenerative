@@ -6,7 +6,7 @@ const songs = [
         title: "I'm Coming Out",
         artist: "Diana Ross",
         year: "1980",
-        video: "https://www.youtube.com/embed/F-mjl63e0ms?si=mRzmPnMhQtF_89W1",
+        video: "https://www.youtube.com/embed/F-mjl63e0ms?si=mRzmPnMhQtF_89W1", 
     },
 
     {
@@ -42,7 +42,7 @@ const songs = [
         artist: "Sister Sledge",
         year: "1979",
         video: "https://www.youtube.com/embed/uyGY2NfYpeE?si=aqONigKtOWqTg8GT",
-        imp:  "While the four members of Sister Sledge are actual sisters, the song took on a deeper meaning with the gay community being one big family. The smash, written and produced by Bernard Edwards and Nile Rodgers of Chic, reached No. 2 on the Hot 100 in June 1979.",
+        imp: "While the four members of Sister Sledge are actual sisters, the song took on a deeper meaning with the gay community being one big family. The smash, written and produced by Bernard Edwards and Nile Rodgers of Chic, reached No. 2 on the Hot 100 in June 1979.",
     },
 
     {
@@ -107,7 +107,7 @@ const songs = [
         artist: "Kacey Musgraves",
         year: "2013",
         video: "https://www.youtube.com/embed/ofsvcA-2XmE?si=UDU8LIcZ56q9jSNx",
-        imp: "The way Musgraves nonchalantly suggests to “kiss lots of boys — or kiss lots of girls, if that’s something you’re into,” was seen as an attack on traditional Christian values by some, while others said it was positive a shift for country music. The hit was crowned song of the year at the CMA Awards in November 2014", 
+        imp: "The way Musgraves nonchalantly suggests to “kiss lots of boys — or kiss lots of girls, if that’s something you’re into,” was seen as an attack on traditional Christian values by some, while others said it was positive a shift for country music. The hit was crowned song of the year at the CMA Awards in November 2014",
     },
 
     {
@@ -142,60 +142,63 @@ const songs = [
         title: "",
         artist: "",
         year: "",
-        video: "", 
-    }, 
+        video: "",
+    },
 
     {
         title: "",
         artist: "",
         year: "",
-        video: "", 
-    }, 
+        video: "",
+    },
 
     {
         title: "",
         artist: "",
         year: "",
-        video: "", 
-    }, 
-
-
-    {
-        title: "",
-        artist: "",
-        year: "",
-        video: "", 
-    }, 
+        video: "",
+    },
 
 
     {
         title: "",
         artist: "",
         year: "",
-        video: "", 
-    }, 
+        video: "",
+    },
 
 
     {
         title: "",
         artist: "",
         year: "",
-        video: "", 
+        video: "",
+    },
+
+
+    {
+        title: "",
+        artist: "",
+        year: "",
+        video: "",
     }
 
 
 ]
 
 function randomArrayIndex(arr) {
-	return arr[Math.floor(Math.random() * arr.length)];
+    return arr[Math.floor(Math.random() * arr.length)];
 }
 
 document.addEventListener("click", loadRandom);
-function loadRandom(){
-	let result = randomArrayIndex(songs);
-	console.log(result);
-	let div = document.querySelector(".result");
+function loadRandom() {
+    let result = randomArrayIndex(songs);
+    console.log(result);
+    let div = document.querySelector(".result");
 
-    console.log(result); 
+    div.innerHTML =
+        result.cover;
+        result.
+
 };
 
