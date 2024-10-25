@@ -1,20 +1,20 @@
-
 /* css */
- 
-#whiteBackground { 
-    background-color: white; 
-    width: 1155px; 
+
+#whiteBackground {
+    background-color: white;
+    width: 1155px;
     height: 1885px;
-    margin: auto; 
+    margin: auto;
     border-radius: 5%;
 }
 
-#whiteBackground h1{ 
-    text-align: center; 
+#whiteBackground h1 {
+    text-align: center;
 }
 
-#whiteBackground img{ 
+#whiteBackground img {
     z-index: 2;
     display: block;
-    margin: auto; 
+    margin: auto;
+    width: 35%;
 }
