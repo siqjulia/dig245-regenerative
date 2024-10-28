@@ -40,7 +40,7 @@ const songs = [
         artist: "Village People,",
         year: "1978",
         video: "https://www.youtube.com/embed/9Ed_WWmFy9I?si=k6X_H62chFMmv1M5",
-        imp: "This disco classic was taken by many as an implicit ode to the gym’s reputation as a popular cruising location — it even comes from an album titled Cruisin’. “Y.M.C.A.” hit No. 2 on the Hot 100 in February 1979, but has since become a parody of itself. Thankfully, Grindr exists these days.",
+        imp: "This disco classic was taken by many as an implicit ode to the gym’s reputation as a popular cruising location — it even comes from an album titled Cruisin’. “Y.M.C.A.” hit No. 2 on the Hot 100 in February 1979, but has since become a parody of itself.",
     },
 
     {
@@ -128,6 +128,7 @@ const songs = [
         artist: "Rina Sawayama,",
         year: "2022",
         video: "https://www.youtube.com/embed/ekauErew4Bs?si=sCsOlrJ1cAW5wdUB",
+        imp: "Sawayama wrote the song in response to attacks on the LGBTQ community, often motivated by religious beliefs. She said, 'When the world tells us we don't deserve love and protection, we have no choice but to give love and protection to each other.'",
     },
 
     {
@@ -138,63 +139,28 @@ const songs = [
     },
 
     {
-        title: "Padam Padam",
-        artist: "Kylie Minogue,",
-        year: "2023",
-        video: "https://www.youtube.com/embed/p6Cnazi_Fi0?si=jlGhJKilISF-NzOD",
-    },
-
-    {
         title: "Silk Chiffon",
         artist: "MUNA,",
         year: "2022",
         video: "https://www.youtube.com/embed/1IvyGfWhoWo?si=wnUMVRZWAuQnDcRX",
+        imp: "Silk Chiffon compares the softness of queer love to that of silk. The music video pays homage to the 1999 lesbian cult classic 'But I'm a Cheerleader' and follows a girl who is sent to a conversion therapy camp, where she falls for another girl. The video ends with the girls escaping the camp and performing the song at a gay bar.", 
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "Girls Like Girls",
+        artist: "Haley Kiyoko",
+        year: "2015",
+        video: "Hayley Kiyoko, affectionately known by fans as "Lesbian Jesus," marked a significant moment in music history with her 2015 breakthrough hit "Girls Like Girls." The song, co-written by Kiyoko, boldly narrates a story of same-sex love and desire, breaking barriers in the pop music scene with its unapologetic portrayal of lesbian relationships as lesbian songs often do.",
     },
 
     {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
+        title: "I'm Every Woman",
+        artist: "Chaka Khan",
+        year: "1978",
+        video: "https://www.youtube.com/embed/DVDCNmdi7QI?si=G8VL9kxYUkeian2L",
+        imp: "Khan’s proud declaration of “I’m Every Woman” now holds an important place in Roe-era women’s liberation, and has since been adopted by queer and trans women everywhere as an unequivocal anthem to fighting for the rights they deserve.",
     },
 
-    {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
-    },
-
-
-    {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
-    },
-
-
-    {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
-    },
-
-
-    {
-        title: "",
-        artist: "",
-        year: "",
-        video: "",
-    }
 
 
 ]
