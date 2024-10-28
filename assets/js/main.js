@@ -150,7 +150,7 @@ const songs = [
         title: "Girls Like Girls",
         artist: "Haley Kiyoko",
         year: "2015",
-        video: "Hayley Kiyoko, affectionately known by fans as "Lesbian Jesus," marked a significant moment in music history with her 2015 breakthrough hit "Girls Like Girls." The song, co-written by Kiyoko, boldly narrates a story of same-sex love and desire, breaking barriers in the pop music scene with its unapologetic portrayal of lesbian relationships as lesbian songs often do.",
+        video: "Hayley Kiyoko, affectionately known by fans as "Lesbian Jesus," marked a significant moment in music history with her 2015 breakthrough hit 'Girls Like Girls.' The song, co-written by Kiyoko, boldly narrates a story of same-sex love and desire, breaking barriers in the pop music scene with its unapologetic portrayal of lesbian relationships as lesbian songs often do.",
     },
 
     {
