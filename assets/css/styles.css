@@ -3,7 +3,7 @@
 #whiteBackground {
     background-color: white;
     width: 1155px;
-    height: 1885px;
+    height: 1500px;
     margin: auto;
     border-radius: 5%;
 }
@@ -43,4 +43,16 @@ iframe {
     margin: 20px auto;
     width: 500px;
     z-index: 2;
+    border-radius: 5%; 
+}
+
+button { 
+    display: block; 
+    margin-top: 50px;
+    margin-bottom: 20px; 
+    margin: auto;
+    background-color: black; 
+    color: white;
+    border-radius: 5%;
+    padding: 14px 40px;
 }
