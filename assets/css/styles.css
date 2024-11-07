@@ -9,7 +9,7 @@
 }
 
 #whiteBackground h1 {
-    text-align: center;
+    text-align: center; 
 }
 
 #whiteBackground img {
@@ -56,3 +56,4 @@ button {
     border-radius: 5%;
     padding: 14px 40px;
 }
+

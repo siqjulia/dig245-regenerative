@@ -122,7 +122,7 @@ const songs = [
         artist: "Rina Sawayama",
         year: "2022",
         video: "https://www.youtube.com/embed/ekauErew4Bs?si=sCsOlrJ1cAW5wdUB",
-        imp: "Sawayama wrote the song in response to attacks on the LGBTQ community, often motivated by religious beliefs. She said, 'When the world tells us we don't deserve love and protection, we have no choice but to give love and protection to each other.'",
+        imp: "Sawayama wrote the song in response to attacks on the LGBTQ community, often motivated by religious beliefs. She said, 'When the world tells us we don't deserve love and protection, we have no choice but to give love and protection to each other.",
     },
 
     {
@@ -162,7 +162,7 @@ const songs = [
         artist: "Gloria Gayner",
         year: "1978",
         video: "https://www.youtube.com/embed/6dYWe1c3OyU?si=Z7jsMzj2ZQmBCk2a",
-        imp: "In 2014, Gaynor caught heat from the gay community when she delayed a gig at The Abbey in West Hollywood. Citing her religious beliefs, she reportedly insisted that managers remove all the go-go dancers from the room. Controversy aside, this song's staying power is undeniable: RuPaul sent two queens packing on the same episode of RuPaul's Drag Race for not doing justice to a lip sync of the gay staple. The song topped the Hot 100 for three weeks in the spring of 1979, received Grammy nominations for record and song of the year and won the only Grammy ever presented for best disco recording.",
+        imp: "In 2014, Gaynor caught heat from the gay community when she delayed a gig at The Abbey in West Hollywood. Citing her religious beliefs, she reportedly insisted that managers remove all the go-go dancers from the room. Controversy aside, this song's staying power is undeniable. The song topped the Hot 100 for three weeks in the spring of 1979, received Grammy nominations for record and song of the year and won the only Grammy ever presented for best disco recording.",
     },
 
     {
@@ -170,7 +170,7 @@ const songs = [
         artist: "Lady Gaga",
         year: "2011",
         video: "https://www.youtube.com/embed/wV1FrqwZyKw?si=RlmzywQ-FIaqtlyW",
-        imp: "Inspired by the empowering music of the '90s, Gaga told Billboard that she wanted to create a “freedom record” that didn't beat around the bush: “I want to write my this-is-who-the-fuck-I-am anthem, but I don't want it to be hidden in poetic wizardry and metaphors.” She followed through, with lyrics like, “No matter gay, straight or bi / Lesbian, transgendered life / I'm on the right track, baby / I was born to survive.” Fans responded positively, as the song debuted at No.1 on the Hot 100 and remained there for six weeks.",
+        imp: "Inspired by the empowering music of the '90s, Gaga told Billboard that she wanted to create a “freedom record” that didn't beat around the bush: “I want to write my this-is-who-the-fuck-I-am anthem, but I don't want it to be hidden in poetic wizardry and metaphors.” She followed through, with lyrics like, “No matter gay, straight or bi / Lesbian, transgendered life / I'm on the right track, baby / I was born to survive.” The song debuted at No.1 on the Hot 100 and remained there for six weeks.",
     },
 
     {
@@ -186,7 +186,7 @@ const songs = [
         artist: "George Michael",
         year: "1990",
         video: "https://www.youtube.com/embed/FaEjDk3lgcI?si=MTna37L12fwanT8W",
-        imp: "While later music would directly address his sexuality and his relationships (including the loss of a partner to AIDS), his ageless 1990 single pointed to a radical, transformative honesty not yet ready to be said aloud: “I think there's something you should know/I think it's time I told you so/There's something deep inside of me / There's someone else I've got to be.” The accompanying video, in which the marquee-handsome superstar goes M.I.A. to let supermodels do the lip-syncing, and his cheesy Faith-era leather jacket goes up in flames, remains unmatched.",
+        imp: "While later music would directly address his sexuality and his relationships (including the loss of a partner to AIDS), his ageless 1990 single pointed to a radical, transformative honesty not yet ready to be said aloud: “I think there's something you should know/I think it's time I told you so/There's something deep inside of me / There's someone else I've got to be.” That's pretty clear.",
     },
 
 
@@ -210,7 +210,7 @@ function loadRandom() {
         <h3 class="title">${result.title}</h3>
         <h4 class="artist">${result.artist}</h4>
         <h5 class="year">${result.year}</h5>
-        <div class="rainbow-box">${result.imp}> 
+        <div class="rainbow-box">${result.imp}
            
 
     `;
