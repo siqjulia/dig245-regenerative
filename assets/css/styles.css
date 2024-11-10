@@ -2,7 +2,8 @@
 
 #whiteBackground {
     background-color: white;
-    width: 1155px;
+    width: 100%;
+    max-width: 1155px;
     height: 1500px;
     margin: auto;
     border-radius: 5%;

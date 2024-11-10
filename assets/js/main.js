@@ -204,13 +204,13 @@ function loadRandom() {
     let div = document.querySelector(".result");
 
     div.innerHTML = `
-       <iframe width="700" height="500" src="${result.video}"
+       <iframe width="600" height="400" src="${result.video}"
         title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> 
     </iframe>
         <h3 class="title">${result.title}</h3>
         <h4 class="artist">${result.artist}</h4>
         <h5 class="year">${result.year}</h5>
-        <div class="rainbow-box">${result.imp}
+        <div class="rainbow-box">${result.imp}</div>
            
 
     `;
